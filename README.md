@@ -6,7 +6,7 @@
 
 This project implements a **webpage crawler and data processing pipeline**, designed to extract, clean, and structure information from web sources.
 
-Web crawling is a fundamental technique in:
+Web crawling is a fundamental technique in: 
 
 * 🌐 Search engines
 * 📊 Data engineering pipelines
